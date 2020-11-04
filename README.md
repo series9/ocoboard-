@@ -1,2 +1,2 @@
-# ocoboard-
+# ocoboard
 ocOBoard  CMS Доски объявлений
